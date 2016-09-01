@@ -1,0 +1,1 @@
+get-service | out-file "$($env:USERPROFILE)\Desktop\Services.txt"
